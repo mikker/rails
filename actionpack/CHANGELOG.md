@@ -1,3 +1,7 @@
+*   Add "Copy as text" button to error pages
+
+    *Mikkel Malmberg*
+
 *   Allow hosts redirects from `hosts` Rails configuration
 
     ```ruby
