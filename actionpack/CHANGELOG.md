@@ -2,6 +2,10 @@
 
     *Mikkel Malmberg*
 
+*   Produce a log when `rescue_from` is invoked.
+
+    *Steven Webb*, *Jean Boussier*
+
 *   Allow hosts redirects from `hosts` Rails configuration
 
     ```ruby
